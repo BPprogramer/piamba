@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+
 
 type SkillProps = {
     icon: string
